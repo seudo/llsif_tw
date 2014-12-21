@@ -2,7 +2,7 @@ Title: 第3彈「3年級限定勸誘」登場！
 Date: 2014/11/05
 Modify: 2014-11-06 00:04
 Category: 公告
-Tags: 台版公告
+Tags: Disappear
 Slug: announce_333
 Summary: <img src="http://seudo.github.io/llsif_tw/images/SS1_web_3.png"> 
 

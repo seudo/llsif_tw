@@ -2,7 +2,7 @@ Title: Google Store更新注意事項
 Date: 2014/09/05
 Modify: 2014-10-26 01:27
 Category: 更新
-Tags: 台版公告
+Tags: Disappear
 Slug: announce_285
 Summary: Google Store將在9/5發布新版本，請詳閱以下注意事項。
 
