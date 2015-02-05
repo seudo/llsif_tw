@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LoveLive! 學園偶像祭</title><link>http://seudo.github.io/llsif_tw/</link><description></description><atom:link href="http://seudo.github.io/llsif_tw/feeds/seudo.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 03 Feb 2015 00:00:00 +0800</lastBuildDate><item><title>開始!!</title><link>http://seudo.github.io/llsif_tw/announce_402.html</link><description>&lt;div class="content_news"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LoveLive! 學園偶像祭</title><link>http://seudo.github.io/llsif_tw/</link><description></description><atom:link href="http://seudo.github.io/llsif_tw/feeds/seudo.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 05 Feb 2015 00:00:00 +0800</lastBuildDate><item><title>想與你一起旅行♪ 旅遊少女決定戰 結果發表！</title><link>http://seudo.github.io/llsif_tw/announce_408.html</link><description>&lt;div class="content_news"&gt;
+&lt;div class="note"&gt;
+
+&lt;style&gt;
+#list_main {
+    position:relative;
+    overflow:hidden;
+}
+
+#list_main&amp;gt;ul {
+    float:left;
+    position: relative;
+    left:50%
+}
+
+#list_main&amp;gt;ul&amp;gt;li {
+    float:left;
+    position:relative;
+    left:-50%;
+    font-size:18px;
+    margin:5px;
+}
+
+#list_main&amp;gt;ul&amp;gt;li img {
+    width:128px;
+    height:128px;
+}
+//--&amp;gt;
+&lt;/style&gt;
+&lt;p&gt;從12/15(一)15時到1/15(四)14時舉辦的&lt;br /&gt;
+「想與你一起旅行♪ 旅遊少女決定戰！」結果發表囉！&lt;/p&gt;&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/webview1000.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/vote_etc_02.png" /&gt;&lt;br /&gt;
+&lt;nozomi tojo="Tojo" was="was" voted="voted" the="the" number="number" one="one" travel="travel" partner="partner"&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/C_1.png" /&gt;&lt;br /&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/RK_1.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;specially designed="designed" ur="UR" nozomi="Nozomi" featuring="featuring" the="the" location="location" of="of" her="her" choice="choice" will="will" be="be" delivered="delivered" as="as" a="a" login="login" bonus="bonus" to="to" everyone.="everyone." more="More" details="details" to="to" follow="follow" in="in" the="the" in-game="in-game" notifications="notifications"&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/C_2.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/RK_2.png" style="width:80%; height:80%;" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;!-- 2位：ことり/ 3位：真姫 --&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/C_3.png" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/RK_3.png" style="width:80%; height:80%;" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://seudo.github.io/llsif_tw/images/vote_etc_02.png" /&gt;&lt;br /&gt;
+&lt;/specially&gt;&lt;/nozomi&gt;&lt;/center&gt;
+&lt;p&gt;
+恭喜！「東條希」獲選為最想一同旅行的社員第1名！&lt;br /&gt;
+「東條希」及她最想去的地方，會以此為主題製作成UR卡片，&lt;br /&gt;
+未來會以期間限定的登入獎勵方式發送給玩家。&lt;br /&gt;
+更詳細的狀況，請期待未來遊戲中的公告♪&lt;br /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;a href="/webview.php/static?id=37" style="text-decoration:underline;"&gt;各國的投票結果確認♪&lt;/a&gt;&lt;/center&gt;
+&lt;br /&gt;
+
+        2015/02/05
+
+&lt;/div&gt;
+
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Thu, 05 Feb 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-02-05:llsif_tw/announce_408.html</guid><category>台版公告</category></item><item><title>開始!!</title><link>http://seudo.github.io/llsif_tw/announce_402.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 【期間】&lt;br /&gt;
@@ -111,72 +176,7 @@
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 03 Feb 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-02-03:llsif_tw/announce_407.html</guid><category>Disappear</category></item><item><title>想與你一起旅行♪ 旅遊少女決定戰</title><link>http://seudo.github.io/llsif_tw/announce_408.html</link><description>&lt;div class="content_news"&gt;
-&lt;div class="note"&gt;
-
-&lt;style&gt;
-#list_main {
-    position:relative;
-    overflow:hidden;
-}
-
-#list_main&amp;gt;ul {
-    float:left;
-    position: relative;
-    left:50%
-}
-
-#list_main&amp;gt;ul&amp;gt;li {
-    float:left;
-    position:relative;
-    left:-50%;
-    font-size:18px;
-    margin:5px;
-}
-
-#list_main&amp;gt;ul&amp;gt;li img {
-    width:128px;
-    height:128px;
-}
-//--&amp;gt;
-&lt;/style&gt;
-&lt;p&gt;從12/15(一)15時到1/15(四)14時舉辦的&lt;br /&gt;
-「想與你一起旅行♪ 旅遊少女決定戰！」結果發表囉！&lt;/p&gt;&lt;br /&gt;
-&lt;center&gt;
-&lt;img src="http://seudo.github.io/llsif_tw/images/webview1000.png" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src="爱心横栏图片" /&gt;&lt;br /&gt;
-&lt;nozomi tojo="Tojo" was="was" voted="voted" the="the" number="number" one="one" travel="travel" partner="partner"&gt;
-&lt;img src="希图片" /&gt;&lt;br /&gt;
-&lt;img src="希第一的横栏图片" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;specially designed="designed" ur="UR" nozomi="Nozomi" featuring="featuring" the="the" location="location" of="of" her="her" choice="choice" will="will" be="be" delivered="delivered" as="as" a="a" login="login" bonus="bonus" to="to" everyone.="everyone." more="More" details="details" to="to" follow="follow" in="in" the="the" in-game="in-game" notifications="notifications"&gt;
-&lt;img src="小鸟图片" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src="小鸟第二的横栏图片" style="width:80%; height:80%;" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;!-- 2位：ことり/ 3位：真姫 --&gt;
-&lt;img src="真姬图片" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src="真姬第三的横栏图片" style="width:80%; height:80%;" /&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src="爱心横栏图片" /&gt;&lt;br /&gt;
-&lt;/specially&gt;&lt;/nozomi&gt;&lt;/center&gt;
-&lt;p&gt;
-恭喜！「東條希」獲選為最想一同旅行的社員第1名。&lt;br /&gt;
-「東條希」及她最想去的地方，會以此為主題製作成UR卡片，&lt;br /&gt;
-未來會以期間限定的登入獎勵方式發送給玩家。&lt;br /&gt;
-更詳細的狀況，請期待未來遊戲中的公告♪&lt;br /&gt;
-&lt;/p&gt;
-&lt;br /&gt;
-&lt;center&gt;&lt;a href="/webview.php/static?id=37" style="text-decoration:underline;"&gt;各國的投票結果確認♪&lt;/a&gt;&lt;/center&gt;
-&lt;br /&gt;
-
-        2015/02/03
-
-&lt;/div&gt;
-
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 03 Feb 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-02-03:llsif_tw/announce_408.html</guid><category>台版公告</category></item><item><title>2/3 例行維護暨活動公告</title><link>http://seudo.github.io/llsif_tw/announce_401.html</link><description>&lt;div class="content_news"&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 03 Feb 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-02-03:llsif_tw/announce_407.html</guid><category>Disappear</category></item><item><title>2/3 例行維護暨活動公告</title><link>http://seudo.github.io/llsif_tw/announce_401.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 LoveLive! 學園偶像祭將在 2/3 10:00進行遊戲例行維護，
