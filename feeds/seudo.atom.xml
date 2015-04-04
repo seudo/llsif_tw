@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>LoveLive! 學園偶像祭</title><link href="http://seudo.github.io/llsif_tw/" rel="alternate"></link><link href="http://seudo.github.io/llsif_tw/feeds/seudo.atom.xml" rel="self"></link><id>http://seudo.github.io/llsif_tw/</id><updated>2015-04-03T00:00:00+08:00</updated><entry><title>4/3臨時停機維護公告</title><link href="http://seudo.github.io/llsif_tw/announce_459.html" rel="alternate"></link><updated>2015-04-03T00:00:00+08:00</updated><author><name>seudo</name></author><id>tag:seudo.github.io,2015-04-03:llsif_tw/announce_459.html</id><summary type="html">&lt;div class="content_news"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>LoveLive! 學園偶像祭</title><link href="http://seudo.github.io/llsif_tw/" rel="alternate"></link><link href="http://seudo.github.io/llsif_tw/feeds/seudo.atom.xml" rel="self"></link><id>http://seudo.github.io/llsif_tw/</id><updated>2015-04-04T00:00:00+08:00</updated><entry><title>支線劇情異常暨修復公告</title><link href="http://seudo.github.io/llsif_tw/announce_460.html" rel="alternate"></link><updated>2015-04-04T00:00:00+08:00</updated><author><name>seudo</name></author><id>tag:seudo.github.io,2015-04-04:llsif_tw/announce_460.html</id><summary type="html">&lt;div class="content_news"&gt;
+&lt;div class="note"&gt;
+&lt;p&gt;
+支線劇情異常，修復方法請參照以下步驟：&lt;br /&gt;
+&lt;br /&gt;
+於3/31更新後，發生部分使用Android作業系統玩家於下載支線劇情後，&lt;br /&gt;
+無法順利進入的異常狀況。目前伺服器端已進行搶修，並已完成調整相關作業，仍需請請玩家參照以下步驟，來完成支線劇情異常修復動作。&lt;br /&gt;
+&lt;br /&gt;
+對象：&lt;br /&gt;
+已下載過支線劇情的&lt;span style="color:red;"&gt;Android玩家&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+異常修復步驟：&lt;br /&gt;
+1.請於各種設定中進行&lt;span style="color:red;"&gt;移動怪獸會員綁定&lt;/span&gt;，或是&lt;span style="color:red;"&gt;資料轉移碼的生成&lt;/span&gt;&lt;br /&gt;
+2.到手機"設定"的畫面，選取"應用程式"中的"LoveLive!"&lt;br /&gt;
+3.進行儲存空間底下的"清除資料"&lt;br /&gt;
+&lt;span style="color:red;"&gt;※此動作會將玩家所下載的錯誤資料以及在手機中的帳號資料刪除，&lt;br /&gt;
+所以在進行前，請務必完成帳號綁定或資料轉移碼生成作業。&lt;/span&gt;&lt;br /&gt;
+4.完成"清除資料"後，請重新執行遊戲，遊戲會重新開始下載正確資料。&lt;br /&gt;
+&lt;span style="color:blue;"&gt;※在創建角色畫面，選擇"轉移資料"，&lt;br /&gt;
+使用步驟1產生的資料轉移碼，即可取回玩家原有帳號資料。&lt;/span&gt;&lt;br /&gt;
+5.完成下載進入遊戲後，即可正常進行支線劇情。&lt;br /&gt;
+&lt;br /&gt;
+注意事項：&lt;br /&gt;
+1.請已發生支線劇情異常的玩家，務必於&lt;span style="color:red;"&gt;4/7(二)上午遊戲更新前&lt;/span&gt;，完成異常修復步驟，否則有可能無法正常進行遊戲更新。&lt;br /&gt;
+2.玩家對自身障號安全仍有疑慮，建議也可同時進行&lt;span style="color:blue;"&gt;以下畫面的截圖&lt;/span&gt;，&lt;br /&gt;
+若無法順利引繼時，請來信客服信箱詢問查詢資料轉移碼方式。&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:blue;"&gt;A.玩家等級、剩餘Loveca數量&lt;br /&gt;
+B.好友名單&lt;br /&gt;
+C.使用隊伍的角色名單&lt;br /&gt;
+D.Loveca購買紀錄&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+LoveLive!客服信箱：&lt;span style="color:blue;"&gt;LL@mobimon.com.tw&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+造成玩家困擾之處，敬請多多見諒。&lt;br /&gt;
+以後也請多多支持《LoveLive! 學園偶像祭》&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+        2015/04/04
+
+&lt;/div&gt;
+
+&lt;/div&gt;</summary><category term="台版公告"></category></entry><entry><title>4/3臨時停機維護公告</title><link href="http://seudo.github.io/llsif_tw/announce_459.html" rel="alternate"></link><updated>2015-04-03T00:00:00+08:00</updated><author><name>seudo</name></author><id>tag:seudo.github.io,2015-04-03:llsif_tw/announce_459.html</id><summary type="html">&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 為求玩家能有更好的遊戲體驗，&lt;span style="color:red;"&gt;4/3 18:20~19:20&lt;/span&gt;將進行停機維護。&lt;br /&gt; 
