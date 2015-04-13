@@ -19,7 +19,37 @@
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Mon, 13 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-13:llsif_tw/announce_458.html</guid><category>台版公告</category></item><item><title>第2彈「Pure屬性限定勸誘」登場！</title><link>http://seudo.github.io/llsif_tw/announce_457.html</link><description>&lt;div class="content_news"&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Mon, 13 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-13:llsif_tw/announce_458.html</guid><category>台版公告</category></item><item><title>第7回Score Match錯誤相關公告</title><link>http://seudo.github.io/llsif_tw/announce_464.html</link><description>&lt;div class="content_news"&gt;
+&lt;div class="note"&gt;
+&lt;p&gt;
+第7回Score Match相關錯誤回報及修復整理，&lt;br /&gt;
+詳細內容如下：&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:red;"&gt;&amp;lt;1&amp;gt;於結算排名畫面，若有任一玩家達成FULL COMBO，&lt;br /&gt;
+則無法正常結束排名畫面。&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+因伺服器端的FULL COMBO圖片與玩家手機中的尺寸對應不同，&lt;br /&gt;
+導致玩家在排名畫面中，出現此圖片時，無法正常顯示。&lt;br /&gt;
+&lt;span style="color:blue;"&gt;＝＞已於4/8 02:30完成修復&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:red;"&gt;&amp;lt;2&amp;gt;點擊活動Banner後，有少部分玩家無法正常進入活動頁面。&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+因更新2.0後，介面大幅翻新，部分型號的裝置，&lt;br /&gt;
+無法負荷大量圖片的存取動作，導致閃退而無法順利進行Score Match。&lt;br /&gt;
+&lt;span style="color:blue;"&gt;＝＞已於4/9 10:30完成修復&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:blue;"&gt;以上為本次活動兩點錯誤彙整，目前已與原廠商討如何給與玩家補償，&lt;br /&gt;
+若有進一步消息，將再修正此公告，並發放補償給玩家。&lt;/span&gt;&lt;br /&gt;
+造成玩家諸多不便之處，敬請多多見諒。&lt;br /&gt;
+&lt;br /&gt;
+以後也請多多支持《LoveLive! 學園偶像祭》&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+        2015/04/13
+
+&lt;/div&gt;
+
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Mon, 13 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-13:llsif_tw/announce_464.html</guid><category>台版公告</category></item><item><title>第2彈「Pure屬性限定勸誘」登場！</title><link>http://seudo.github.io/llsif_tw/announce_457.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 4/10(五)00:00:00～4/12(日) 23:59:59，Pure屬性登場的「Pure屬性限定勸誘」登場！&lt;br /&gt;
@@ -56,7 +86,7 @@
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Wed, 08 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-08:llsif_tw/announce_463.html</guid><category>台版公告</category></item><item><title>開始!!</title><link>http://seudo.github.io/llsif_tw/announce_454.html</link><description>&lt;div class="content_news"&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Wed, 08 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-08:llsif_tw/announce_463.html</guid><category>Disappear</category></item><item><title>開始!!</title><link>http://seudo.github.io/llsif_tw/announce_454.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 【期間】&lt;br /&gt;
@@ -162,7 +192,7 @@ LoveLive!學園偶像祭的4/7維護更新已經完成囉!!具體更新內容如
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 07 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-07:llsif_tw/announce_461.html</guid><category>台版公告</category></item><item><title>4/8臨時維護公告[時間變更]</title><link>http://seudo.github.io/llsif_tw/announce_462.html</link><description>&lt;div class="content_news"&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 07 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-07:llsif_tw/announce_461.html</guid><category>Disappear</category></item><item><title>4/8臨時維護公告[時間變更]</title><link>http://seudo.github.io/llsif_tw/announce_462.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 為修復伺服器檔案缺失部分，&lt;span style="color:red;"&gt;4/8 02:00~02:30&lt;/span&gt;將進行臨時停機維護。&lt;br /&gt; 
@@ -178,7 +208,7 @@ LoveLive!學園偶像祭的4/7維護更新已經完成囉!!具體更新內容如
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 07 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-07:llsif_tw/announce_462.html</guid><category>台版公告</category></item><item><title>4/7 例行維護暨活動公告</title><link>http://seudo.github.io/llsif_tw/announce_452.html</link><description>&lt;div class="content_news"&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">seudo</dc:creator><pubDate>Tue, 07 Apr 2015 00:00:00 +0800</pubDate><guid>tag:seudo.github.io,2015-04-07:llsif_tw/announce_462.html</guid><category>Disappear</category></item><item><title>4/7 例行維護暨活動公告</title><link>http://seudo.github.io/llsif_tw/announce_452.html</link><description>&lt;div class="content_news"&gt;
 &lt;div class="note"&gt;
 &lt;p&gt;
 LoveLive! 學園偶像祭將在 4/7 10:00進行遊戲例行維護，&lt;br /&gt;
